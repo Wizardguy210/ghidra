@@ -1,16 +1,17 @@
-excludedFiles.txt
-ghidra.repos.config
+\. npm i bug 
+# excludedFiles.txt
+# ghidra.repos.config
 
 # Misc files produced while executing application
-repositories/
-dependencies/
-flatRepo/
-Ghidra/.ghidraSvrKeys
-wrapper.log*
+# repositories/
+# dependencies/
+# flatRepo/
+# Ghidra/.ghidraSvrKeys
+# wrapper.log*
 
-Thumbs.db
-.DS_Store
-.svn
+# Thumbs.db
+# .DS_Store
+# .svn
 
 /*/*/*/*/*/bin/
 /*/*/*/*/*/build/
